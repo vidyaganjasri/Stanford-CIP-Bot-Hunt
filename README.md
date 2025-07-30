@@ -1,4 +1,3 @@
-<img width="1894" height="937" alt="image" src="https://github.com/user-attachments/assets/a8054615-fd4b-4531-94b4-3f418a65e8ee" /># Stanford-CIP-Bot-Hunt
 # Bot Hunt
 
 "Bot Hunt" is a simple yet engaging game developed on the Stanford Code in Place platform. The objective is to navigate your "bot" to the "goal" while avoiding the "destroyer," which grows and speeds up as you score points!
