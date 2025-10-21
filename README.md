@@ -12,7 +12,6 @@ As you score points by reaching the goal, the destroyer will increase in size an
 
 1.  **Launch the Game**: Run the Python script on the Stanford Code in Place platform.
 2.  **Select Difficulty**: On the initial screen, click on "Easy," "Medium," or "Hard" to choose your desired difficulty level.
-    ![Initial Game Screen with Level Selection and Instructions](image_fd56b9.png)
 3.  **Controls**: Once the game starts, use the **Arrow Keys** (Up, Down, Left, Right) to move your bot.
 4.  **Score Points**: Guide your bot to the rosy brown "goal" square to score a point. A new goal will appear randomly on the canvas.
 5.  **Avoid the Destroyer**: Stay clear of the black "destroyer" square. If it overlaps with your bot, the game ends.
